@@ -37,6 +37,6 @@ Title:Publications
 
 #### _Ph.D Thesis Title_
 <div style="text-align:justify" markdown="0.75">
-Studies on Techniques for Improving End-to-End TCP Performance over PLC with Wired and Wireless Networks. [[Click here to access the Thesis]](https://ds.lib.kyutech.ac.jp/dspace/bitstream/10228/5453/1/jou_k_300.pdf)
+Studies on Techniques for Improving End-to-End TCP Performance over PLC with Wired and Wireless Networks. [[Click here to access the Thesis]](https://kyutech.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=4239&item_no=1&page_id=13&block_id=21)
 </div>
 
