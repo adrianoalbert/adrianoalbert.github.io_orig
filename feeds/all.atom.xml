@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="http://adrianoalbert.com/" rel="alternate"></link><link href="http://adrianoalbert.com/feeds/all.atom.xml" rel="self"></link><id>http://adrianoalbert.com/</id><updated>2016-10-30T11:10:07Z</updated></feed>
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="http://adrianoalbert.com/" rel="alternate"></link><link href="http://adrianoalbert.com/feeds/all.atom.xml" rel="self"></link><id>http://adrianoalbert.com/</id><updated>2016-10-30T11:42:43Z</updated></feed>
+>>>>>>> 65af233b0aafa05ac4f5e6d10d7608a4768702f6
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="http://adrianoalbert.com/" rel="alternate"></link><link href="http://adrianoalbert.com/feeds/all.atom.xml" rel="self"></link><id>http://adrianoalbert.com/</id><updated>2016-10-30T14:45:25Z</updated></feed>
+>>>>>>> 78840015d936bc3a8df1091deb208bd7fcebd2af
