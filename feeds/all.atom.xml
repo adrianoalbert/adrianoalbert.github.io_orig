@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert Muniz</title><link href="https://adrianomuniz.com/" rel="alternate"></link><link href="https://adrianomuniz.com/feeds/all.atom.xml" rel="self"></link><id>https://adrianomuniz.com/</id><updated>2022-06-12T00:00:00+09:00</updated><entry><title>Hello World!</title><link href="https://adrianomuniz.com/posts/2022/06/hello-world/" rel="alternate"></link><published>2022-06-12T00:00:00+09:00</published><updated>2022-06-12T00:00:00+09:00</updated><author><name>Adriano Albert</name></author><id>tag:adrianomuniz.com,2022-06-12:/posts/2022/06/hello-world/</id><summary type="html">&lt;p&gt;Summary: This is my first post on this new blog. &lt;/p&gt;
-&lt;p&gt;This is my first post on this new blog and I am planning to use this blog to share my throughts and 
-knowledge in topics I am interested in. The topics will be mainly about technologies with deep focus on …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Summary: This is my first post on this new blog. &lt;/p&gt;
-&lt;p&gt;This is my first post on this new blog and I am planning to use this blog to share my throughts and 
-knowledge in topics I am interested in. The topics will be mainly about technologies with deep focus on 
-networking, Internet of Things (IoT) and cybersecurity. &lt;/p&gt;
-&lt;p&gt;Your comments on the blog posts and suggestions for new tutorials are highly appreciated. Stay Tuned. &lt;/p&gt;</content><category term="misc"></category><category term="misc"></category></entry></feed>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="https://adrianomuniz.com/" rel="alternate"></link><link href="https://adrianomuniz.com/feeds/all.atom.xml" rel="self"></link><id>https://adrianomuniz.com/</id><updated>2016-10-30T11:10:07Z</updated></feed>
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="https://adrianomuniz.com/" rel="alternate"></link><link href="https://adrianomuniz.com/feeds/all.atom.xml" rel="self"></link><id>https://adrianomuniz.com/</id><updated>2016-10-30T11:42:43Z</updated></feed>
+>>>>>>> 65af233b0aafa05ac4f5e6d10d7608a4768702f6
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adriano Albert</title><link href="https://adrianomuniz.com/" rel="alternate"></link><link href="https://adrianomuniz.com/feeds/all.atom.xml" rel="self"></link><id>https://adrianomuniz.com/</id><updated>2016-10-30T14:45:25Z</updated></feed>
+>>>>>>> 78840015d936bc3a8df1091deb208bd7fcebd2af
