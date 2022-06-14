@@ -29,7 +29,7 @@ TRANSLATION_FEED_ATOM = None
 
 #MENUITEMS = [('Archive', '/archives.html'),]
 
-MENUITEMS = [('Posts', '/posts.html'), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
+MENUITEMS = [('Posts', ''), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
 
 STATIC_PATHS = ['images', 'pdfs']
 
@@ -75,7 +75,7 @@ NEWEST_FIRST_ARCHIVES = False
 STATIC_PATHS = ['images', 'extra']
 
 # Ipython setting
-NOTEBOOK_DIR = 'notebooks'
+#NOTEBOOK_DIR = 'notebooks'
 #EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 #IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
 
