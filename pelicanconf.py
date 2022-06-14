@@ -75,9 +75,9 @@ NEWEST_FIRST_ARCHIVES = False
 STATIC_PATHS = ['images', 'extra']
 
 # Ipython setting
-#NOTEBOOK_DIR = 'notebooks'
+NOTEBOOK_DIR = 'notebooks'
 #EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
-#IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
+IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
 
 
 # Shift the installed location of a file
