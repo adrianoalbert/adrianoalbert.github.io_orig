@@ -31,7 +31,7 @@ TRANSLATION_FEED_ATOM = None
 
 MENUITEMS = [('Posts', '/posts/index.html'), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
 
-STATIC_PATHS = ['images', 'pdfs']
+#STATIC_PATHS = ['images', 'pdfs']
 
 
 COVER_IMG_URL = '/images/cover-image.jpg'
