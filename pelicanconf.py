@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR =u'Adriano Albert' 
 SITENAME =u'Adriano Albert Muniz' 
 TAGLINE =u'Computer Networking and More'
-SITEURL = 'https://adrianomuniz.com'
+SITEURL = 'http://adrianomuniz.com'
 
 PATH = 'content'
 
@@ -29,7 +29,7 @@ TRANSLATION_FEED_ATOM = None
 
 #MENUITEMS = [('Archive', '/archives.html'),]
 
-MENUITEMS = [('Posts', ''), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
+MENUITEMS = [('Archive', '/archives.html'), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
 
 STATIC_PATHS = ['images', 'pdfs']
 
@@ -77,7 +77,6 @@ STATIC_PATHS = ['images', 'extra']
 # Ipython setting
 NOTEBOOK_DIR = 'notebooks'
 #EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
-IPYNB_STOP_SUMMARY_TAGS = [('div', ('class', 'input')), ('div', ('class', 'output'))]
 
 
 # Shift the installed location of a file
@@ -100,7 +99,6 @@ THEME = "theme/pure"
 #PLUGINS = ['gravatar', 'liquid_tags.youtube', 'liquid_tags.img', 'liquid_tags.notebook']
 
 PLUGIN_PATHS = ['./plugins']
-
 MARKUP = ('md', 'ipynb')
 
 
