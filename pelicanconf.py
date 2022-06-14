@@ -29,7 +29,7 @@ TRANSLATION_FEED_ATOM = None
 
 #MENUITEMS = [('Archive', '/archives.html'),]
 
-MENUITEMS = [('Posts', '/posts/'), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
+MENUITEMS = [('Posts', '/posts/index.html'), ('About', '/pages/about.html'), ('Publications', '/pages/publications.html'),]
 
 STATIC_PATHS = ['images', 'pdfs']
 
