@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR =u'Adriano Albert' 
 SITENAME =u'Adriano Albert Muniz' 
 TAGLINE =u'Computer Networking and More'
-SITEURL = 'http://adrianomuniz.com'
+SITEURL = 'https://adrianomuniz.com'
 
 PATH = 'content'
 
