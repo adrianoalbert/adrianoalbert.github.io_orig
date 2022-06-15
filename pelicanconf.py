@@ -72,8 +72,7 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 NEWEST_FIRST_ARCHIVES = False
 
 # Static paths will be copied without parsing their contents
-#STATIC_PATHS = ['images', 'extra']
-STATIC_PATHS = []
+STATIC_PATHS = ['images', 'extra']
 
 # Ipython setting
 NOTEBOOK_DIR = 'notebooks'
